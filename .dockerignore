@@ -1,0 +1,17 @@
+.git
+.github
+.terraform
+*.tfstate
+*.tfstate.*
+.env
+.env.*
+__pycache__
+*.pyc
+.pytest_cache
+.DS_Store
+README.md
+docs
+helm
+k8s
+monitoring
+terraform
